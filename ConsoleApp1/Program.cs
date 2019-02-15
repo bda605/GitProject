@@ -8,5 +8,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void Method()
+        {
+            Console.WriteLine("Display");
+        }
     }
 }
